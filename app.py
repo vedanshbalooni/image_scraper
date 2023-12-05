@@ -71,6 +71,8 @@ def index():
                     return 'something is wrong'
             # return render_template('results.html')
 
+            
+
 
     else:
         return render_template('index.html')
